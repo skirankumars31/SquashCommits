@@ -1,1 +1,2 @@
 Feature 1 done
+feature 2 done
