@@ -3,3 +3,4 @@ feature 2 done
 feature 3 wip3
 feature 4 done
 feature 5 done
+feature 6 done
